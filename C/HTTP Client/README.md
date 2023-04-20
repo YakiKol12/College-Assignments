@@ -1,7 +1,6 @@
 # TCP HTTP Client
 
-## Aouthord by
-Yaki Kol
+Authord by Yaki Kol
 
 ## Files
 client.c - A client side http 1.0 program sending requests to desired server.
