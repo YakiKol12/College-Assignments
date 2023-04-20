@@ -1,6 +1,6 @@
 # TCP Chat Server in C and Linux
 
-Author: Yaki Kol
+Authored by Yaki Kol
 
 
 ## Files
