@@ -18,9 +18,9 @@ To play the game, simply go to [Yaki's game](http://yakovko.mysoft.jce.ac.il/ex1
 There are no prerequisites to run the game. However, you will need a web browser that supports HTML, CSS, and JavaScript.
 
 ## Files
-index.html: The HTML file for the game interface.<br>
-styles.css: The CSS file for styling the game interface.<br>
-script.js: The JavaScript file that contains the game logic.
+- index.html: The HTML file for the game interface.<br>
+- styles.css: The CSS file for styling the game interface.<br>
+- script.js: The JavaScript file that contains the game logic.
 
 ## How to Play
 1. Click on the `New Game` button to start the game.
