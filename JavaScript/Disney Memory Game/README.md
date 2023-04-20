@@ -1,7 +1,6 @@
 # Disney Memory Game
 
-## Author
-Yaki Kol
+Authored by Yaki Kol
 
 ## Getting Started
 To play the game, simply go to [Yaki's game](http://yakovko.mysoft.jce.ac.il/ex1/) in a web browser.
