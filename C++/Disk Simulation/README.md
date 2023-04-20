@@ -1,4 +1,4 @@
-# Disk simulator
+# Disk simulation
 Authored by Yaki Kol
 
 ## Description
