@@ -29,8 +29,9 @@ There are no prerequisites to run the game. However, you will need a web browser
 4. If the cards do not match, a `Try Again` banner will appear at the top of the screen and the cards will unflip after a short period of time.
 5. Repeat steps 2-4 until all pairs have been found.
 6. Once all pairs have been found, an alert will pop up indicating that you have won and how much time has passed.
+7. Replay the game with new set of pictures by clicking the `Play Again` button.
 
-The player can also start a new game by clicking on the "New Game" button at any time.
+The player can also start a new game by clicking on the `New Game` button at any time.
 
 ## HTTP Requests
 In this program im using ajax mechanism a few times during the games lifetime.<br>
