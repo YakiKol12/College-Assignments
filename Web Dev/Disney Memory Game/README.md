@@ -16,11 +16,12 @@ styles.css: The CSS file for styling the game interface.<br>
 script.js: The JavaScript file that contains the game logic.
 
 ## How to Play
-To play the game, simply open the index.html file in your browser.<br>
-Click on "New Game" button to start a new game. Once the game has started, click on any two cards to flip them over.<br>
-If the cards match, information about the character will be displayed, and the cards will stay face up. If they do not match, they will flip back over.<br>
-Continue flipping cards until all pairs have been matched.<br>
-Once all pairs have been matched, the player wins the game.<br><br>
+1. Click on the `New Game` button to start the game.
+2. Flip over two cards by clicking on them.
+3. If the cards match, a popup window with the character's details will appear.
+4. If the cards do not match, a `Try Again` banner will appear at the top of the screen and the cards will unflip after a short period of time.
+5. Repeat steps 2-4 until all pairs have been found.
+6. Once all pairs have been found, an alert will pop up indicating that you have won and how much time has passed.
 
 The player can also start a new game by clicking on the "New Game" button at any time.
 
