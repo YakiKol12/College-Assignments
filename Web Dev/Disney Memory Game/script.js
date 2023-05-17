@@ -32,7 +32,7 @@ class Card {
     }
 }
 
-let api_url = 'https://api.disneyapi.dev/characters';
+let api_url = 'https://api.disneyapi.dev/character';
 
 let game_state = {
     starting_time: null,
